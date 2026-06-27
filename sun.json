@@ -1,0 +1,382 @@
+{
+  "id": "sun-frideswyth",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@frideswyth Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_0866a98e9191",
+    "display_name": "frideswyth",
+    "user_id": "@frideswyth",
+    "description": "Community Archive-derived proof-of-search sun for @frideswyth.",
+    "document_count": 13893,
+    "word_count": 237771,
+    "active_days": 1793,
+    "emissions": [
+      "Nosilverv",
+      "Think",
+      "Don",
+      "Good",
+      "Time",
+      "Know"
+    ],
+    "generated_at": "2026-06-27T16:04:03.483132+00:00",
+    "color": "#f59e0b",
+    "mass": 12.379
+  },
+  "planets": [
+    {
+      "id": "planet_2473cd659082",
+      "name": "Nosilverv",
+      "summary": "Archive cluster around nosilverv: 11539 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "nosilverv",
+        "now",
+        "too",
+        "meaningness",
+        "love"
+      ],
+      "artifacts": [
+        {
+          "id": "art_0c6095901879",
+          "title": "Nosilverv receipt from 2023-02-27",
+          "excerpt": "This is my entire argument for universal basic income https://t.co/RY4CWCuq3l",
+          "source_document_id": "1630289113986347008",
+          "timestamp": "2023-02-27T19:29:48+00:00",
+          "url": "https://x.com/frideswyth/status/1630289113986347008",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: nosilverv, now, too, meaningness."
+        },
+        {
+          "id": "art_c447175c0fa4",
+          "title": "Nosilverv receipt from 2022-04-27",
+          "excerpt": "Does anyone else feel ashamed of the ways they behaved in their 20s?",
+          "source_document_id": "1519293992080445440",
+          "timestamp": "2022-04-27T12:34:49+00:00",
+          "url": "https://x.com/frideswyth/status/1519293992080445440",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: nosilverv, now, too, meaningness."
+        },
+        {
+          "id": "art_dc9ceb275cfc",
+          "title": "Nosilverv receipt from 2022-02-19",
+          "excerpt": "Why can’t every human have 3 cubic metres to live in that they own, for free? Why can’t a human exist in space at no cost",
+          "source_document_id": "1495026562843959296",
+          "timestamp": "2022-02-19T13:24:43+00:00",
+          "url": "https://x.com/frideswyth/status/1495026562843959296",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: nosilverv, now, too, meaningness."
+        },
+        {
+          "id": "art_16bde8a39ca6",
+          "title": "Nosilverv receipt from 2022-05-15",
+          "excerpt": "I can confirm that organising events will get you far more lovers than a dating app, if that’s motivating at all",
+          "source_document_id": "1525828672263016460",
+          "timestamp": "2022-05-15T13:21:18+00:00",
+          "url": "https://x.com/frideswyth/status/1525828672263016460",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: nosilverv, now, too, meaningness."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_d841a0024212",
+      "proof_score": 1,
+      "mass": 36.157,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_64e623319d6c",
+      "name": "Think",
+      "summary": "Archive cluster around think: 670 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "don",
+        "time",
+        "good",
+        "only"
+      ],
+      "artifacts": [
+        {
+          "id": "art_8082d96402f6",
+          "title": "Think receipt from 2020-10-18",
+          "excerpt": "I think it's super hard to *not* start a sex cult",
+          "source_document_id": "1317858932401098761",
+          "timestamp": "2020-10-18T16:03:48+00:00",
+          "url": "https://x.com/frideswyth/status/1317858932401098761",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, don, time, good."
+        },
+        {
+          "id": "art_80d28e837444",
+          "title": "Think receipt from 2022-09-10",
+          "excerpt": "Did you know the secret of shitposting\n\nWe find things we believe to be 100% profoundly true that we know other people will think is so wildly false it must be a joke, dress it up as one and watch it fly  \n\nIt’s a Kegan tease lol \n\nThis is how we find each other",
+          "source_document_id": "1568575963096666115",
+          "timestamp": "2022-09-10T12:23:46+00:00",
+          "url": "https://x.com/frideswyth/status/1568575963096666115",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, don, time, good."
+        },
+        {
+          "id": "art_6ba3c9102d9b",
+          "title": "Think receipt from 2022-02-13",
+          "excerpt": "I think I'm still heartbroken from the breakdown of my last crew who simply had the vibe of \"Let's have some fun. Let's make something, just because.\" And then we would make something and it would be fun. That ended nearly three years ago and I've been lost ever since.",
+          "source_document_id": "1492912080730611713",
+          "timestamp": "2022-02-13T17:22:31+00:00",
+          "url": "https://x.com/frideswyth/status/1492912080730611713",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, don, time, good."
+        },
+        {
+          "id": "art_2753e4eb3782",
+          "title": "Think receipt from 2020-10-23",
+          "excerpt": "Suddenly have this strong feeling that thoughts are pretty fucking crazy when you think about it. Pictures and sounds in your head wtf",
+          "source_document_id": "1319790317210640384",
+          "timestamp": "2020-10-23T23:58:26+00:00",
+          "url": "https://x.com/frideswyth/status/1319790317210640384",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, don, time, good."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_55d9e1937d7a",
+      "proof_score": 1,
+      "mass": 29.739,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_bb2768a31a6f",
+      "name": "Don",
+      "summary": "Archive cluster around don: 510 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "know",
+        "want",
+        "things",
+        "other"
+      ],
+      "artifacts": [
+        {
+          "id": "art_6f6ea9f461a2",
+          "title": "Don receipt from 2021-05-08",
+          "excerpt": "It’s like people are pacing around in a cage that they don’t realise doesn’t exist",
+          "source_document_id": "1391171667666292741",
+          "timestamp": "2021-05-08T23:22:26+00:00",
+          "url": "https://x.com/frideswyth/status/1391171667666292741",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, things."
+        },
+        {
+          "id": "art_b670eb0ba8a8",
+          "title": "Don receipt from 2022-08-14",
+          "excerpt": "I love how Buddhist books put the message into one profound paragraph at the beginning so that if you’re smart you don’t have to read the rest of the book. I wish every book was like this.",
+          "source_document_id": "1558782906658594817",
+          "timestamp": "2022-08-14T11:49:40+00:00",
+          "url": "https://x.com/frideswyth/status/1558782906658594817",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, things."
+        },
+        {
+          "id": "art_208c6e4a5a5b",
+          "title": "Don receipt from 2020-11-03",
+          "excerpt": "One advantage of being Other / bullied from a young age is that you don't build your self-esteem from other people's opinions of you. Foundations are largely internal. \n\nDisadvantage is in later life you ignore good people who you should be building relationships with.",
+          "source_document_id": "1323641354665295878",
+          "timestamp": "2020-11-03T15:01:05+00:00",
+          "url": "https://x.com/frideswyth/status/1323641354665295878",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, things."
+        },
+        {
+          "id": "art_7d23f219a8d6",
+          "title": "Don receipt from 2021-12-19",
+          "excerpt": "It’s strange. I had a feeling I should book a flight to England for very early in December, so I did. It’s nice here. Xmas is pleasant. Everyone is responding to me v positively, I don’t know why. I’m navigating by feel. I’m relaxed, I don’t know why. \nIs this 🤲🦋 Heart?",
+          "source_document_id": "1472570263732633606",
+          "timestamp": "2021-12-19T14:11:24+00:00",
+          "url": "https://x.com/frideswyth/status/1472570263732633606",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, things."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_2bd2eca1e47b",
+      "proof_score": 0.974,
+      "mass": 28.752,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_f7d2a2bdc6d7",
+      "name": "Good",
+      "summary": "Archive cluster around good: 480 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "good",
+        "way",
+        "feel",
+        "thing",
+        "really"
+      ],
+      "artifacts": [
+        {
+          "id": "art_6461d9e85524",
+          "title": "Good receipt from 2020-02-23",
+          "excerpt": "Meta-rats talking:\n\nmetarat1: heads\nmetarat2: I agree, but also tails\nmetarat1: yes I agree about tails\n\nboth in unison: this is the same coin\n\nmetarat1: but it's good to argue the side for heads\nmetarat2: yes, and also for tails\n\nboth in unison: yes",
+          "source_document_id": "1231634349256302592",
+          "timestamp": "2020-02-23T17:38:06+00:00",
+          "url": "https://x.com/frideswyth/status/1231634349256302592",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, way, feel, thing."
+        },
+        {
+          "id": "art_e3a258120406",
+          "title": "Good receipt from 2020-06-23",
+          "excerpt": "Hey NYT, I stand in support of SlateStarCodex. Revealing his full name will fuck up his life. It would be bullying. His writing was honest, his opinions measured and he always attempted to be balanced and argue in good faith. Maybe you could take a leaf out of his book.",
+          "source_document_id": "1275346638593294337",
+          "timestamp": "2020-06-23T08:35:08+00:00",
+          "url": "https://x.com/frideswyth/status/1275346638593294337",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, way, feel, thing."
+        },
+        {
+          "id": "art_27bdff7c5fa8",
+          "title": "Good receipt from 2022-07-02",
+          "excerpt": "Neglectful parents always react to their child’s needs with some version of annoyance, even outright rage. \n\nThey make it clear the child is a burden to them, and make them feel guilty for having needs. \n\nThey also praise the child when they’re quiet, being “good” is being silent",
+          "source_document_id": "1543214424009457668",
+          "timestamp": "2022-07-02T12:46:04+00:00",
+          "url": "https://x.com/frideswyth/status/1543214424009457668",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, way, feel, thing."
+        },
+        {
+          "id": "art_6768f9ce5998",
+          "title": "Good receipt from 2020-07-21",
+          "excerpt": "Am I the only person who thinks postmodernism is Necessary and Good?",
+          "source_document_id": "1285498735791931398",
+          "timestamp": "2020-07-21T08:55:56+00:00",
+          "url": "https://x.com/frideswyth/status/1285498735791931398",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, way, feel, thing."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_1d2ff0f8f2ee",
+      "proof_score": 0.968,
+      "mass": 28.292,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_525f42477058",
+      "name": "Time",
+      "summary": "Archive cluster around time: 407 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "time",
+        "long",
+        "now",
+        "every",
+        "first"
+      ],
+      "artifacts": [
+        {
+          "id": "art_011fcbcebd3b",
+          "title": "Time receipt from 2021-03-06",
+          "excerpt": "Spending 45 mins daily attending closely to all five senses (as well as thoughts) makes me realise just how much time I've spent in thoughts during my life so far. It now seems like a survival, distraction tactic that is borderline disassociation. Poor Jess.",
+          "source_document_id": "1368234264114978820",
+          "timestamp": "2021-03-06T16:17:23+00:00",
+          "url": "https://x.com/frideswyth/status/1368234264114978820",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, long, now, every."
+        },
+        {
+          "id": "art_cf6441c70276",
+          "title": "Time receipt from 2019-05-31",
+          "excerpt": "Short thread on my first experience of meta-systematicity, “fluid mode” or Kegan’s interindividual stage. I remember the first time I questioned a system - it was political. I was throughly versed in the feminist, sjw system and more broadly the leftist spectrum",
+          "source_document_id": "1134579112373305344",
+          "timestamp": "2019-05-31T21:55:14+00:00",
+          "url": "https://x.com/frideswyth/status/1134579112373305344",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, long, now, every."
+        },
+        {
+          "id": "art_f2c1ae29ba99",
+          "title": "Time receipt from 2020-11-03",
+          "excerpt": "Thinking of these iconic guys as spiritual precursors to emo, and realising for the first time that a big part of emo was maybe about bisexual and queer men expressing themselves. \n\nThey are: Billy Joe Armstrong, Brian Molko, Kurt Cobain, Richey Edwards. https://t.co/l1gfd1DqRV",
+          "source_document_id": "1323633843639910402",
+          "timestamp": "2020-11-03T14:31:14+00:00",
+          "url": "https://x.com/frideswyth/status/1323633843639910402",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, long, now, every."
+        },
+        {
+          "id": "art_8d90edfbfb35",
+          "title": "Time receipt from 2020-09-24",
+          "excerpt": "I was 31 before I realised you could see the Milky Way with the naked eye. I’ve just seen it for the second time in dark countryside... and with binoculars! \n\nIt. Is. Amazing. \n\n🌌",
+          "source_document_id": "1309246703707488258",
+          "timestamp": "2020-09-24T21:41:53+00:00",
+          "url": "https://x.com/frideswyth/status/1309246703707488258",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, long, now, every."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_2d85a450efd1",
+      "proof_score": 0.951,
+      "mass": 28.158,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_de3f5bdeaaa8",
+      "name": "Know",
+      "summary": "Archive cluster around know: 287 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "know",
+        "didn",
+        "other",
+        "let",
+        "women"
+      ],
+      "artifacts": [
+        {
+          "id": "art_b950980fde73",
+          "title": "Know receipt from 2021-01-11",
+          "excerpt": "Did you know: you can do whatever you want",
+          "source_document_id": "1348589760026185728",
+          "timestamp": "2021-01-11T11:17:09+00:00",
+          "url": "https://x.com/frideswyth/status/1348589760026185728",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, didn, other, let."
+        },
+        {
+          "id": "art_3a9ae6930d5e",
+          "title": "Know receipt from 2021-05-09",
+          "excerpt": "I told Mum I was going to write a book while living off my savings and she said, “as long as you know what you’re doing” \nI said, “no one knows what they’re doing”",
+          "source_document_id": "1391389116558872579",
+          "timestamp": "2021-05-09T13:46:30+00:00",
+          "url": "https://x.com/frideswyth/status/1391389116558872579",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, didn, other, let."
+        },
+        {
+          "id": "art_9c7e944e37f6",
+          "title": "Know receipt from 2020-07-25",
+          "excerpt": "When someone else has an idea you've never thought of it seems incredible. But if you have an idea that other people would find incredible, it's very hard to tell that you have, because to you the idea is utterly obvious, and it's hard to know other people's thoughts.",
+          "source_document_id": "1286962027530014720",
+          "timestamp": "2020-07-25T09:50:32+00:00",
+          "url": "https://x.com/frideswyth/status/1286962027530014720",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, didn, other, let."
+        },
+        {
+          "id": "art_d8d1ccbda44f",
+          "title": "Know receipt from 2020-10-09",
+          "excerpt": "I know people won’t understand why this is one of my happy places, but it is https://t.co/kRCYwDd5WE",
+          "source_document_id": "1314561458156470272",
+          "timestamp": "2020-10-09T13:40:49+00:00",
+          "url": "https://x.com/frideswyth/status/1314561458156470272",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, didn, other, let."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_82f037e3158a",
+      "proof_score": 0.916,
+      "mass": 26.624,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
